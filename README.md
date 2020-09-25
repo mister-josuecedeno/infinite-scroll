@@ -1,4 +1,4 @@
-# js30-infinite-scroll
+# Infinite Scroll
 Partial load images to create an infinite scroll effect leveraging the fetch and the Unsplash api.
 
 ## Features
